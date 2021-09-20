@@ -3,13 +3,13 @@
 apiSpec:
   url: /Users/barak/msf_api_spec/K2V_APIDOC.json
 
-connectorName: Fabric Rest-api Connector - Mule 4
+connectorName: Fabric Rest-API Connector - Mule 4
 connectorDescription: Fabric Rest api
 
 connectorGav:
   groupId: com.mulesoft.connectors
   artifactId: mule4-fabric-rest-api-connector
-  version: 1.0.0-SNAPSHOT
+  version: 1.0.0
 
 baseUri:
   type: parameter
