@@ -6,8 +6,8 @@
     <modelVersion>4.0.0</modelVersion>
     <packaging>mule-extension</packaging>
 
-    <name>K2VIEW REST-API Connector - Mule 4 Connector</name>
-    <description>K2View REST api</description>
+    <name>K2VIEW REST-API Connector - Mule 4</name>
+    <description>K2View REST api Connector</description>
     <parent>
         <groupId>org.mule.extensions</groupId>
         <artifactId>mule-modules-parent</artifactId>
