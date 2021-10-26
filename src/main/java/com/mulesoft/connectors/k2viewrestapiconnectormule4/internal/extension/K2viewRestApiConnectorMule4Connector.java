@@ -9,7 +9,7 @@ import org.mule.runtime.extension.api.annotation.dsl.xml.Xml;
 import org.mule.runtime.extension.api.annotation.error.ErrorTypes;
 import org.mule.runtime.extension.api.annotation.license.RequiresEnterpriseLicense;
 
-@Extension(name = "K2view Rest Api Connector Mule4Connector", category = Category.CERTIFIED)
+@Extension(name = "K2view Rest Api", category = Category.CERTIFIED)
 @Xml(prefix = "k2view-rest-api-connector-mule-4")
 @Configurations({K2viewRestApiConnectorMule4Configuration.class})
 @ErrorTypes(RestError.class)
